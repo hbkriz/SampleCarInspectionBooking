@@ -1,0 +1,101 @@
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\ApplicationInsights.config
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\VehicleIdentificationApi.dll.config
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\VehicleIdentificationApi.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\VehicleIdentificationApi.pdb
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Antlr3.Runtime.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.Web.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Newtonsoft.Json.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Swashbuckle.Core.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Net.Http.Formatting.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Helpers.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.WebHost.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Mvc.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Optimization.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Razor.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Razor.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\WebActivatorEx.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\WebGrease.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Newtonsoft.Json.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Net.Http.Formatting.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Helpers.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.WebHost.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Mvc.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Optimization.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Razor.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Razor.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Antlr3.Runtime.pdb
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.Web.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.csprojResolveAssemblyReference.cache
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.csproj.CoreCompileInputs.cache
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.pdb
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\ApplicationInsights.config
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\VehicleIdentificationApi.dll.config
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\VehicleIdentificationApi.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\VehicleIdentificationApi.pdb
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Antlr3.Runtime.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.Web.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Newtonsoft.Json.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Swashbuckle.Core.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Helpers.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Mvc.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Optimization.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Razor.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\WebActivatorEx.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\WebGrease.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Newtonsoft.Json.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Helpers.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Mvc.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Optimization.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.Razor.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Antlr3.Runtime.pdb
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\bin\Microsoft.AI.Web.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.csprojAssemblyReference.cache
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.csproj.CopyComplete
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\VehicleIdentificationApi\obj\Debug\VehicleIdentificationApi.pdb

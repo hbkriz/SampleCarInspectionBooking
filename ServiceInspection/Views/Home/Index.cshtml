@@ -1,0 +1,124 @@
+﻿<!-- Heading Row -->
+<div class="row my-4">
+    <div class="col-lg-2">
+    </div>
+    <div class="col-lg-8">
+        <img src="/Content/images/servicing.jpeg" alt="">
+    </div>
+    <div class="col-lg-2">
+    </div>
+</div>
+<!-- /.row -->
+<!-- Call to Action Well -->
+<div class="card text-white bg-secondary my-4 text-center">
+    <div class="card-body">
+        <p class="text-white m-0">What do I need to get started?</p>
+    </div>
+</div>
+<!-- Content Row -->
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title"><i style=" vertical-align: middle;" class="fa fa-user fa-lg"></i></h2>
+                <p class="card-text"> Personal/Contact Details</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- /.col-md-4 -->
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title"><i style=" vertical-align: middle;" class="fa fa-home fa-lg"></i></h2>
+                <p class="card-text"> Address</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.col-md-4 -->
+    <div class="col-md-4 mb-4">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title"><i style=" vertical-align: middle;" class="fa fa-credit-card fa-lg"></i></h2>
+                <p class="card-text"> Debit/Credit Card</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+<hr>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 style="text-align: center;">Enter your car registration to get started</h2>
+            </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-8">
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+            {
+                <div class="input-group">
+                    <input id="number-plate" name="regNumber" type="text" maxlength="8" class="form-control col-md-4" placeholder="Input your license plate" required="required">
+                    &nbsp;&nbsp;
+                    <span class="input-group-btn">
+                        <button class="btn btn-success" type="submit">Find Vehicle</button>
+                    </span>
+                </div>
+            }
+            <br/>
+            <a style="text-decoration: underline;" href="">I don't know my registration</a>
+        </div>
+    </div>
+</div>
+<hr>
+<!-- Content Row -->
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div>
+            <div class="card-body">
+                <h2 class="card-title"><i style=" vertical-align: middle;" class="fa fa-star fa-lg"></i></h2>
+                <p class="card-text"> Retain the highest residual value for your vehicle</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- /.col-md-4 -->
+    <div class="col-md-4 mb-4">
+        <div>
+            <div class="card-body">
+                <h2 class="card-title"><i style=" vertical-align: middle;" class="fa fa-users fa-lg"></i></h2>
+                <p class="card-text"> Highly-trained Technicians</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.col-md-4 -->
+    <div class="col-md-4 mb-4">
+        <div>
+            <div class="card-body">
+                <h2 class="card-title"><i style=" vertical-align: middle;" class="fa fa-globe fa-lg"></i></h2>
+                <p class="card-text"> Valid Globalwide</p>
+            </div>
+        </div>
+    </div>
+    <!-- /.col-md-4 -->
+</div>
+<!-- /.row -->
+
+<script type="text/javascript">
+    $('#number-plate').on('keypress change', function () {
+        $(this).val(function (index, value) {
+            return value.replace(/\W/gi, '').replace(/(.{4})/g, '$1 ');
+        });
+    });
+</script>
+
+<style>
+    div.middle {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>

@@ -1,0 +1,89 @@
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\ApplicationInsights.config
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\ServiceInspection.dll.config
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\ServiceInspection.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\ServiceInspection.pdb
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Antlr3.Runtime.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.Web.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.WindowsServer.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.ApplicationInsights.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.Web.Infrastructure.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Newtonsoft.Json.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Helpers.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Mvc.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Optimization.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Razor.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Deployment.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Razor.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\WebGrease.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Helpers.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Mvc.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Optimization.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.Razor.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Deployment.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Razor.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Antlr3.Runtime.pdb
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Newtonsoft.Json.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.ApplicationInsights.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.WindowsServer.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\Microsoft.AI.Web.xml
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.csprojResolveAssemblyReference.cache
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.csproj.CoreCompileInputs.cache
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.pdb
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Net.Http.Formatting.dll
+c:\users\balakh\documents\visual studio 2017\Projects\ServiceInspection\ServiceInspection\bin\System.Net.Http.Formatting.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\ApplicationInsights.config
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\ServiceInspection.dll.config
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\ServiceInspection.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\ServiceInspection.pdb
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Antlr3.Runtime.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.Web.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Newtonsoft.Json.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Net.Http.Formatting.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Helpers.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Mvc.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Optimization.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Razor.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Razor.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\WebGrease.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Net.Http.Formatting.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Helpers.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Mvc.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Optimization.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.Razor.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\System.Web.WebPages.Razor.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Antlr3.Runtime.pdb
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Newtonsoft.Json.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\bin\Microsoft.AI.Web.xml
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.csprojAssemblyReference.cache
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.csproj.CopyComplete
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.dll
+C:\Users\Balakh\Downloads\ServiceInspection\ServiceInspection\ServiceInspection\obj\Debug\ServiceInspection.pdb
